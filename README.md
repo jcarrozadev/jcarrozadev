@@ -1,12 +1,13 @@
 # 👋 ¡Hola! Soy **Javier Arias Carroza**
 
-💻 Desarrollador web **Fullstack en formación** en la Escuela Virgen de Guadalupe. Apasionado por código limpio, Frontend y Frameworks como Laravel.
+💻 Desarrollador web **Fullstack**. Apasionado por código limpio, Frontend y Frameworks como Laravel.
 
 ---
 
 ## 🧠 Sobre mí
 
 - 💻 Desarrollo web en prácticas para THB Hotels
+- 📚 Formado con C.F.G.S en la Escuela Virgen de Guadalupe.
 - 🧩 Me gusta ser **perfeccionista** en mis proyectos, cuidando desde el código hasta el diseño final.
 - 🛠️ Trabajo con tecnologías modernas como Laravel y Bootstrap.
 - 📘 Siempre me gusta aprender algo nuevo.
