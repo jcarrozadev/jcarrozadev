@@ -1,17 +1,17 @@
 # 👋 ¡Hola! Soy **Javier Arias Carroza**
 
-💻 Desarrollador web **Fullstack**. Apasionado por código limpio, Frontend y Frameworks como Laravel.
+💻 Desarrollador web **Junior PHP**. Apasionado por código limpio, Frontend y Frameworks como Laravel.
 
 ---
 
 ## 🧠 Sobre mí
 
-- 💻 Desarrollo web en prácticas para THB Hotels
+- 💻 Desarrollo web para Backend y Frontend
 - 📚 Formado con C.F.G.S en la Escuela Virgen de Guadalupe.
 - 🧩 Me gusta ser **perfeccionista** en mis proyectos, cuidando desde el código hasta el diseño final.
-- 🛠️ Trabajo con tecnologías modernas como Laravel y Bootstrap.
-- 📘 Siempre me gusta aprender algo nuevo.
-- 🎮 Estoy creando una **gestión de guardias** para el profesorado y administración de la Escuela como Trabajo Fin de Ciclo.
+- 🛠️ Trabajo con tecnologías modernas como Laravel, Bootstrap, Tailwind y React.
+- 📘 Siempre me gusta aprender algo nuevo, siempre innovando.
+- 💼 En busca de empleo activa y creando proyectos propios.
 
 ---
 
@@ -75,7 +75,7 @@
 
 ## 📚 Actualmente estoy en
 
-Llevo 6 meses como Desarrollador Web de prácticas para THB Hotels en la gestión de hoteles. Finalizando el C.F.G.S de Desarrollo de Aplicaciones Web. Utilizando y especializandome en servicios backend con framework como Laravel y formandome en frontend con Bootstrap. Por mi cuenta, aprendiendo Astro y Tailwind.
+Una vez finalizado el C.F.G.S de Desarrollo de Aplicaciones Web, innovando creando proyectos propios con bases de PHP y especializándome sobretodo en la parte de diseño de usuario. Además, utilizando y especializandome en servicios backend con framework como Laravel y formandome en frontend con Bootstrap. Por mi cuenta, aprendiendo Astro y Tailwind.
 
 ---
 
@@ -99,13 +99,13 @@ Llevo 6 meses como Desarrollador Web de prácticas para THB Hotels en la gestió
 
 - 🎮 **[Minijuego de justicia social](https://github.com/jcarrozadev/decisionesDeVida)** – Proyecto educativo con personajes y decisiones morales
 - 🗂️ **[Diario de aprendizaje DAW](https://github.com/jcarrozadev/2DAW/tree/main/DEAP/cuadernoAprendizaje)** – Página [interactiva](https://jcarrozadev.github.io/2DAW/DEAP/cuadernoAprendizaje/index.html) con apuntes animados y organizados
-- 🔧 **[Gestión de guardias](https://github.com/jcarrozadev/tfc_evg)** – Herramienta web para asignación de profesorado por sesiones *(más reciente y actualmente en desarrollo)*
+- 🔧 **[Gestión de guardias](https://github.com/jcarrozadev/tfc_evg)** – Herramienta web para asignación de profesorado por sesiones (*TFC del C.F.G.S*)
 
 ---
 
 ## 📫 Contacto
 
 - 📧 jariascarroza@gmail.com  
-- 🌐 [Portfolio](https://jcarrozadev.github.io/portFolio/) *(En desarrollo)*  
+- 🌐 [Portfolio](https://jcarrozadev.github.io/portFolio/) 
 - 💼 [LinkedIn](https://www.linkedin.com/in/javier-arias-carroza-0318582b4/) | 📸 [Instagram](https://www.instagram.com/jcarroza_27/)
 
