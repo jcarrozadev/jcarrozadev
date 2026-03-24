@@ -107,5 +107,5 @@ Una vez finalizado el C.F.G.S de Desarrollo de Aplicaciones Web, innovando crean
 
 - 📧 jariascarroza@gmail.com  
 - 🌐 [Portfolio](https://jcarrozadev.github.io/portFolio/) 
-- 💼 [LinkedIn](https://www.linkedin.com/in/javier-arias-carroza-0318582b4/) | 📸 [Instagram](https://www.instagram.com/jcarroza_27/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/javier-arias-carroza-0318582b4/) | 📸 [Instagram](https://www.instagram.com/jcarroza_22/)
 
